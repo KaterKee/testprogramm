@@ -1,0 +1,2 @@
+# testprogramm
+wx test
